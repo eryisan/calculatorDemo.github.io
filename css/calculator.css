@@ -1,0 +1,9 @@
+body{
+    background-color:#eee;
+}
+
+#calculator{
+    width:500px;
+    margin:300px auto 0px;
+    transform: scale(1.5);
+}
